@@ -1,2 +1,2 @@
 # AsphalteneChemicalStructureDatabase
-A chemical structure database of asphaltene molecules, and computational workflows for predicting their ensemble properties 
+Computational workflows to predict ensemble property distributions from structures obtained by single-molecule imaging, applied to steam-cracked tar, coal-derived asphaltene, and petroleum pitch
